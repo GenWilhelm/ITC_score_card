@@ -1,5 +1,5 @@
 {
-	"ver": "v1.19d",
+	"ver": "v1.19",
 	"names": [
 		["Headhunter", "1pt for each enemy ᴄʜᴀʀᴀᴄᴛᴇʀ that is destroyed."],
 		["Kingslayer", "Choose an enemy model that is a ᴄʜᴀʀᴀᴄᴛᴇʀ.\n- Earn 1 point for every 2 wounds of damage it loses, cumulatively.\n- In the instance where a ᴄʜᴀʀᴀᴄᴛᴇʀ may regenerate wounds or resurrect during the course of the game, total wounds it loses over the course of the game are counted towards this mission.\n- If the model selected has the ᴄʜᴀʀᴀᴄᴛᴇʀ and ᴠᴇʜɪᴄʟᴇ or ᴍᴏɴsᴛᴇʀ keywords, you earn 1 point for every 4 wounds it loses instead of 1 for every 2.\n- If the ᴄʜᴀʀᴀᴄᴛᴇʀ is also your opponent’s Warlord, earn 1 additional point (to a maximum of 4 total) if it is destroyed."],
